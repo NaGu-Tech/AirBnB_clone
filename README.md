@@ -169,5 +169,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Chikaodiri Agu
+Chikaodiri Agu &
 Esere Cynthia
